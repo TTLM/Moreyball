@@ -1,4 +1,18 @@
 # Moreyball
+Long term goals:
+Create a comprehensive database
+Project win spreads
+Create a stat that measures 'value'
+Project value
+
+Short term goals:
+Download data from BBR and NBA.com (or other sites)
+
+Medium(?) term goals (just spitballing here):
+Individual physical measurements vs team defensive performance
+Team physical measurements/variance vs team defensive performance
+Individual scoring efficiency vs team offensive/overall performance
+Team scoring efficiency vs team offensive/overall performance
 
 # Initial email
 Sorry for not updating you earlier, but I've been looking into basketball analytics for most of the summer, and though admittedly I haven't gotten a start with the coding and haven't studied enough linear algebra/statistics, I've found quite a few resources from which we can draw data and ideas for the direction of the project.
