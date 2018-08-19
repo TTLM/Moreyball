@@ -9,6 +9,8 @@ Long term goals:
 Short term goals:
 
 - [ ] Download data from BBR and NBA.com (or other sites)
+- [ ] Team scoring efficiency vs wins/expected wins
+- [ ] Team scoring efficiency vs net rating/overall rating
 
 Medium(?) term goals (just spitballing here):
 
@@ -17,6 +19,12 @@ Medium(?) term goals (just spitballing here):
 - [ ] Individual scoring efficiency vs team offensive/overall performance
 - [ ] Team scoring efficiency vs team offensive/overall performance
 - [ ] Individual scoring efficiency vs individual usage rate
+
+Analytics 'conventional wisdom' that I'd like to test at some point:
+
+- [ ] As predictive metrics, RPM > WS, VORP > BPM, PER
+- [ ] There are no publicly available statistics that adequately measure individual defense (Daryl Morey quote, this will be quite difficult)
+- [ ] For rookies coming from the NCAA (college ball), NCAA FT% or a blend of NCAA FT%/3P% are better indicators of NBA 3P% than NCAA 3P%
 
 # Miscellaneous Shit
 I don't imagine that our project will be as ambitious as CARMELO, but take a look at FiveThirtyEight's explanation of their methodology, because I think a lot of useful insights can be gained. I posted the interactive in the initial email, so feel free to play around with that to learn exactly what CARMELO is trying to do.
