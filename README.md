@@ -42,7 +42,7 @@ In general, when thinking about effective team building and judging NBA players,
 - https://fivethirtyeight.com/features/russell-westbrook-is-really-worth-344-million-and-other-tales-of-the-nbas-new-salary-cap/
 - http://www.espn.com/pdf/2016/0406/nba_hinkie_redact.pdf
 
-# Initial email
+# Initial Email
 Sorry for not updating you earlier, but I've been looking into basketball analytics for most of the summer, and though admittedly I haven't gotten a start with the coding and haven't studied enough linear algebra/statistics, I've found quite a few resources from which we can draw data and ideas for the direction of the project.
 
 
