@@ -28,7 +28,6 @@ Analytics 'conventional wisdom' that I'd like to test at some point:
 
 # Miscellaneous Shit
 I don't imagine that our project will be as ambitious as CARMELO, but take a look at FiveThirtyEight's explanation of their methodology, because I think a lot of useful insights can be gained. I posted the interactive in the initial email, so feel free to play around with that to learn exactly what CARMELO is trying to do.
-
 - 2015-16 (launch year): https://fivethirtyeight.com/features/how-were-predicting-nba-player-career/
 - 2016-17: https://fivethirtyeight.com/features/whats-new-in-our-nba-projections-for-2016-17/
 - 2017-18: https://fivethirtyeight.com/features/whats-new-in-our-nba-player-projections-for-2017-18/
@@ -38,17 +37,21 @@ So from reading these pieces, I've come to a few early conclusions: firstly, BPM
 
 
 RealGM, the biggest online basketball forum, has a Statistical Analysis board (among others). Reddit has r/nba and r/nbadiscussion, with the former being the huge meme-filled subreddit and the latter being a tiny but more serious sub. Often when I'm procrastinating I find myself browsing through these forums, and I'll warn you that the signal-noise ratio is awful. Just god-awful. If you have to look at one look at the RealGM board, but even so, most of the posters and discussion are trash-tier. There are some nuggets of wisdom, but I don't expect you to put in the time necessary to find them. 
-
 - https://forums.realgm.com/boards/viewforum.php?f=344
 - https://old.reddit.com/r/nba/
 - https://old.reddit.com/r/nbadiscussion/
 
 
 In general, when thinking about effective team building and judging NBA players, the notions of value and surplus value (or, as I call it, 'generating value') are of the utmost importance to me. This is the main goal of analysing statistics for me, and everything we do should have an eventual connection to value. I've been highlighting CARMELO because it also has this goal in mind, measuring value both in WAR (Wins Above Replacement) and market value. The following articles capture some, though hardly all, of my thoughts about value generation:
-
 - https://fivethirtyeight.com/features/carmelo-anthonys-contract-could-doom-the-knicks-to-mediocrity/
 - https://fivethirtyeight.com/features/russell-westbrook-is-really-worth-344-million-and-other-tales-of-the-nbas-new-salary-cap/
 - http://www.espn.com/pdf/2016/0406/nba_hinkie_redact.pdf
+
+
+The following is another small project that I found a while ago and forgot to include in the email. This one measures the success of draft picks, and though the methodology is simplistic compared to the others, it represents a more attainable goal. The first link describes the project, the second is the data used, and the third is data from an unrelated third party about the performance of draft picks.
+ - https://old.reddit.com/r/nba/comments/8v1awu/oc_a_new_statistic_evaluating_every_draft_pick/
+ - https://docs.google.com/spreadsheets/d/1H3lMr8UO2YIwnKKXrpySzWyReFMzly_TLOQVjLNTQzE/edit#gid=2021074514
+ - https://github.com/jbmoskow/The-Process-Revisted
 
 # Initial Email
 Sorry for not updating you earlier, but I've been looking into basketball analytics for most of the summer, and though admittedly I haven't gotten a start with the coding and haven't studied enough linear algebra/statistics, I've found quite a few resources from which we can draw data and ideas for the direction of the project.
