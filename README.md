@@ -23,10 +23,18 @@ Medium(?) term goals (just spitballing here):
 Analytics 'conventional wisdom' that I'd like to test at some point:
 
 - [ ] As predictive metrics, RPM > WS, VORP > BPM, PER
-- [ ] There are no publicly available statistics that adequately measure individual defense (Daryl Morey quote, this will be quite difficult)
+- [ ] There are no publicly available statistics that adequately measure individual defense (Daryl Morey quote, this will be quite difficult to test because judging defense is extremely dependent on the 'eye test,' which is deeply flawed in its own way)
 - [ ] For rookies coming from the NCAA (college ball), NCAA FT% or a blend of NCAA FT%/3P% are better indicators of NBA 3P% than NCAA 3P%
+- [ ] Any defensive metrics that rely on box score stats will necessarily overvalue players who can accumulate rebounds, steals, or blocks; these are the only defense-related box score stats (besides simple plus-minus) but hardly capture a player's entire defensive ability
 
-# Miscellaneous Shit
+# The Eye Test
+At various points I have described the 'eye test' or conclusions that I've reached through watching the NBA. Ideally, any meaningful conclusions we can reach through statistical analysis should be verified by a corresponding, independently derived 'eye test' conclusion. Of course, both statistics and the 'eye test' are flawed, so this is hardly perfect, but there are some broad 'eye test' conclusions that I'm confident enough in to use as measuring sticks for our analysis:
+
+- Russell Westbrook's counting statistics are vastly overinflated compared to his impact on the court, thus, any model that values him over, say, James Harden or Stephen Curry, places far too much reliance on counting stats. Similarly, any model that counts Westbrook or John Wall as the best passers in the league overvalues assists. As Daryl Morey once said, 'there is no (box score) statistic that cannot be accummulated selfishly.' Especially for the big three of points, rebounds, and assists, efficiency is far more important for success than volume.  
+- Stephen Curry's off-ball impact on his team's offense is otherworldly. His 'gravity' is era-defining. Any offensive plus-minus metrics should rate him very highly.
+- Switching on defense is the name of the game. Switch-heavy defenses need versatile defenders. What does this mean in terms of numbers? The best defenses have the least variation in height (broadly speaking). The ideal is to have five players between 6'6"-6'10", or 198-208 cm.
+
+# Miscellaneous Stuff
 I don't imagine that our project will be as ambitious as CARMELO, but take a look at FiveThirtyEight's explanation of their methodology, because I think a lot of useful insights can be gained. I posted the interactive in the initial email, so feel free to play around with that to learn exactly what CARMELO is trying to do.
 - 2015-16 (launch year): https://fivethirtyeight.com/features/how-were-predicting-nba-player-career/
 - 2016-17: https://fivethirtyeight.com/features/whats-new-in-our-nba-projections-for-2016-17/
